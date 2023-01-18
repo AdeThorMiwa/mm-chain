@@ -31,7 +31,6 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "global": "^4.4.0",
     "node-pre-gyp": "^0.17.0",
     "peer-exchange": "^2.2.0",
     "vorpal": "^1.12.0"
