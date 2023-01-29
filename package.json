@@ -22,6 +22,7 @@
   "homepage": "https://github.com/AdeThorMiwa/mm-chain#readme",
   "devDependencies": {
     "@types/node": "^18.11.18",
+    "@types/vorpal": "^1.12.2",
     "@typescript-eslint/eslint-plugin": "^5.48.2",
     "@typescript-eslint/parser": "^5.48.2",
     "eslint": "^8.32.0",
@@ -33,6 +34,7 @@
   "dependencies": {
     "node-pre-gyp": "^0.17.0",
     "peer-exchange": "^2.2.0",
-    "vorpal": "^1.12.0"
+    "vorpal": "^1.12.0",
+    "wrtc": "^0.4.7"
   }
 }
